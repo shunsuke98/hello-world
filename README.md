@@ -1,2 +1,3 @@
 # hello-world
-GitHubの最初のリポジトリ
+## bGitHubの最初のリポジトリ
+これから毎日ProgatePathに触れていくことを習慣にしていきたい
