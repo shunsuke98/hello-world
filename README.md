@@ -5,3 +5,4 @@
 - GitBashは必要なのか、VScodeは使うのかあまりわかっていません
 ### 20260514
 - 今日はGitBashを使ったGitHubの練習を行いました。
+- GitBashを使うのか、commit changesで変更内容を保存すればいいのか少し混乱しています。
